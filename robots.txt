@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zaurFarm.github.io/handbook-sl6i1f/sitemap.xml
